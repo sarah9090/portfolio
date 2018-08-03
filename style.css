@@ -20,7 +20,7 @@
  dt { font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
  dd { width: 600px; float: right; }
  dd.clear { float: none; margin: 0; height: 15px; }
- .footer { left:0px; bottom:0px; height:60px; width:100%; background:#999;}
+ .footer { position: fixed; left:0px; bottom:0px; height:60px; width:100%; background:#999;}
 [class*="col-"] {
     width: 100%;
 }
